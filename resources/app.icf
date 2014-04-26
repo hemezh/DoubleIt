@@ -1,0 +1,21 @@
+[S3E]
+MemMgrMaxAllocWarning=0
+DispFixRot=Portrait
+SplashScreenFile = "textures/loading.jpg"
+SplashScreenWidth = "300"
+SplashScreenHeight = "190"
+SplashScreenBkR = 0
+SplashScreenBkG = 0
+SplashScreenBkB = 0
+
+[GL]
+
+[QUICK]
+mainFilename="main.lua"
+
+[BILLING]
+androidPublicKey1="MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtUgiFt6ZQFydwYh8nIrtkpdMDBGW7sPtM9Yo"
+androidPublicKey2="/NBMVVU+td3pqrWlVQiqv+IF7vDM60jIExvxrw/lHa+MeJ0oEIDgCPP"
+androidPublicKey3="/ny55GHt3sCRr0MGunj1tQq2srGjFz3+RsTDykQCRcTb60/4W1iAIxdd2G5D14TmCH"
+androidPublicKey4="/2HUU6LH1NeWEVOgCBgfwfJYrNFipfnWVTgjy7yrCb2njStRSMNBW+xQ+NgLaMfxyraKopQGV9fRPiHAjusouWdDteLcmWQK4mkYUxyoH"
+androidPublicKey5="/a7viKJZBFK8Ea68bbM86P97NdVcJcaNRM408nJVw8DzTF6Mtm1HIUHAmmAeN0Vdrv6xwTcVyCwrK2lwIDAQAB"
